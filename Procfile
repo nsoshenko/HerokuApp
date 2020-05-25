@@ -1,1 +1,1 @@
-web: flask run -p 80
+web: flask run
