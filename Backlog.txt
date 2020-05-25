@@ -1,4 +1,3 @@
-  
 LEFTOVERS:
 1. Autologin after registration, some session bugs now, commented (critical) DONE (new SELECT query to initialize session, let to bug #16)
 2. Bug: after "Passwords don't match" there is double "This username is already in use" error (minor)
